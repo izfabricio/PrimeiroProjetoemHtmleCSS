@@ -1,0 +1,16 @@
+.center {
+    margin: auto;
+    width: 66%;
+  }
+  
+
+.container { text-align: center; }
+body {
+    font-family: Georgia, Times, serif;
+    color: rgb(255, 255, 255);
+    background-color: #ac65a2
+    
+}
+h1 {
+    font-family: Helvetica, Arial
+}
